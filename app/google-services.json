@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031429500986",
+    "firebase_url": "https://fir-qrrealtime.firebaseio.com",
+    "project_id": "fir-qrrealtime",
+    "storage_bucket": "fir-qrrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031429500986:android:5267fb5eb0b71f96254503",
+        "android_client_info": {
+          "package_name": "com.testcamp.firebaseqr_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031429500986-d01fb9lsclqt1n0km5tmhhr68052f9jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testcamp.firebaseqr_realtime",
+            "certificate_hash": "e2d0d838a44ec25da970db972b20628feb7d99be"
+          }
+        },
+        {
+          "client_id": "1031429500986-uqoa4pr3613de8s0qealcscq64hsqho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxZr7U11ZZs3d8Wpm0tyHlFPHPa6LR3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031429500986-uqoa4pr3613de8s0qealcscq64hsqho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
